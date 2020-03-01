@@ -1,2 +1,3 @@
 # GalbiatiRezaei
-Software Engineering 2 project 
+*** About the Course (Software Engineering 2)***
+The software process and software standards; lifecycles (waterfall, prototype-based, evolutionary/incremental, spiral, agile); standards (ISO2001, SPICE, CMM); software business models, licensing, intellectual properties, open-source software. Requirements engineering. Software technologies: middleware, componenti models (J2EE and .NET). Design patterns. Software architectures and architectural styles. Methods and notations for specification: FSMs, StateCharts, Petri nets, temporal logics, Alloy. Verification and validation: testing and analysis, model checking.
