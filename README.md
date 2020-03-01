@@ -1,6 +1,8 @@
 # GalbiatiRezaei
 ## About the Course (Software Engineering 2)
+<p align="center">
 The software process and software standards; lifecycles (waterfall, prototype-based, evolutionary/incremental, spiral, agile); standards (ISO2001, SPICE, CMM); software business models, licensing, intellectual properties, open-source software. Requirements engineering. Software technologies: middleware, componenti models (J2EE and .NET). Design patterns. Software architectures and architectural styles. Methods and notations for specification: FSMs, StateCharts, Petri nets, temporal logics, Alloy. Verification and validation: testing and analysis, model checking.
+</P>
 
 ## About the Project
 SafeStreets is a crowd-sourced application that intends to provide users with the possibility to notify
