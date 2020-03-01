@@ -24,6 +24,6 @@ altered. In addition, the information about issued tickets is used to build stat
 statistics are offered: a list of people who received the highest number of tickets and some trends
 of the issued tickets over time and the ratio of approved tickets over the violations reported.
 
-##Team members
+## Team members
 [Tiberio Galbiati](https://github.com/TiberioG)
 [Saeid Rezaei](https://github.com/SaeidRezaei90)
